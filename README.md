@@ -41,6 +41,9 @@ To assess whether the New treatment significantly outperforms the Standard treat
 
 - **Python**: pandas, scipy, matplotlib
 - **Statistical Test**: Two-sample t-test
+- **Jupyter Notebook**: Coding the project
+- **Git and Github**: Project presentation
+- **ChatGPT**: Project breakdown
 
 ### **Conclusion**
 
@@ -48,7 +51,7 @@ The New treatment is both statistically and practically more effective in reduci
 
 ### **Project File**
 
-- **`med_study_analysis.ipynb`**: Check out the Jupyter Notebook with the complete analysis.
+- **[med_study_analysis.ipynb](https://github.com/OlaIpaye/Medical-Study-Analysis-for-Drug-Efficacy/tree/main/project-file)**: Check out the Jupyter Notebook with the complete analysis.
 
 ### **Contact**
 
